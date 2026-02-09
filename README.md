@@ -16,7 +16,7 @@ conda activate ocs-arc
 Run the simulation experiments with the provided shell script for quick validation:
 ```bash
 # Run test experiments
-sh test.sh
+./test.sh
 ```
 
 
