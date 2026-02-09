@@ -3,7 +3,7 @@ PY_SCRIPT="simulation/simu_online.py"
 N_TEST=(600)
 SET_IDS=(1)
 Q_VALUES=(1)
-REPEAT_TIME=10
+REPEAT_TIME=100
 
 
 for nt_id in "${N_TEST[@]}"; do
