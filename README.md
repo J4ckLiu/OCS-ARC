@@ -28,6 +28,6 @@ If you find this work useful in your research, please consider citing:
   title={Online Conformal Selection with Accept-to-Reject Changes},
   author={Liu, Kangdao and Xi, Huajun and Vong, Chi-Man and Wei, Hongxin},
   booktitle={Proceedings of the 40th AAAI Conference on Artificial Intelligence},
-  year={2026},
+  year={2026}
 }
 ```
